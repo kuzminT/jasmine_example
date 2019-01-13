@@ -1,0 +1,28 @@
+{
+  "name": "jasmin_test",
+  "version": "1.0.0",
+  "description": "rowz html5 game client",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "author": "wild-card",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babel-loader": "^8.0.0",
+    "del": "^2.2.2",
+    "jasmine": "^3.3.1",
+    "karma": "^3.1.4",
+    "karma-jasmine": "^2.0.1",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "karma-webpack": "^3.0.5",
+    "puppeteer": "^1.11.0",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-core": "^0.6.9",
+    "webpack-dev-server": "^3.1.14"
+  },
+  "keywords": []
+}
