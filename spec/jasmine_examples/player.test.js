@@ -1,6 +1,6 @@
 'use strict';
-import Player from '../lib/jasmine_examples/Player';
-import Song from '../lib/jasmine_examples/Song';
+import Player from '../../Player';
+import Song from '../../Song';
 
 describe("Player", () => {
     let player;
